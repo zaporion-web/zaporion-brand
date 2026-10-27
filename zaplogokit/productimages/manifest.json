@@ -1,0 +1,1002 @@
+{
+  "method": "Pixel-preserving rectangular PNG crops; no resampling or recoloring.",
+  "background": "Original backgrounds are retained, including white, dark, and colored icon backgrounds.",
+  "products": [
+    {
+      "name": "zaphrms",
+      "source": "zaphrms.png",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "sourceSha256": "29afeb110e9d57ad81b00f902c87b25878336c5b967ffccf52bd94cdfd83c4c9",
+      "variants": [
+        {
+          "filename": "light-horizontal.png",
+          "path": "zaphrms/light-horizontal.png",
+          "crop": {
+            "x": 888,
+            "y": 86,
+            "width": 742,
+            "height": 188
+          },
+          "output": {
+            "width": 742,
+            "height": 188
+          }
+        },
+        {
+          "filename": "light-stacked.png",
+          "path": "zaphrms/light-stacked.png",
+          "crop": {
+            "x": 202,
+            "y": 37,
+            "width": 438,
+            "height": 281
+          },
+          "output": {
+            "width": 438,
+            "height": 281
+          }
+        },
+        {
+          "filename": "icon-light.png",
+          "path": "zaphrms/icon-light.png",
+          "crop": {
+            "x": 132,
+            "y": 390,
+            "width": 163,
+            "height": 119
+          },
+          "output": {
+            "width": 163,
+            "height": 119
+          }
+        },
+        {
+          "filename": "app-icon-blue.png",
+          "path": "zaphrms/app-icon-blue.png",
+          "crop": {
+            "x": 546,
+            "y": 390,
+            "width": 128,
+            "height": 115
+          },
+          "output": {
+            "width": 128,
+            "height": 115
+          }
+        },
+        {
+          "filename": "monochrome-black-horizontal.png",
+          "path": "zaphrms/monochrome-black-horizontal.png",
+          "crop": {
+            "x": 838,
+            "y": 401,
+            "width": 350,
+            "height": 100
+          },
+          "output": {
+            "width": 350,
+            "height": 100
+          }
+        },
+        {
+          "filename": "monochrome-white-horizontal.png",
+          "path": "zaphrms/monochrome-white-horizontal.png",
+          "crop": {
+            "x": 1259,
+            "y": 397,
+            "width": 387,
+            "height": 106
+          },
+          "output": {
+            "width": 387,
+            "height": 106
+          }
+        },
+        {
+          "filename": "brand-horizontal.png",
+          "path": "zaphrms/brand-horizontal.png",
+          "crop": {
+            "x": 22,
+            "y": 597,
+            "width": 540,
+            "height": 135
+          },
+          "output": {
+            "width": 540,
+            "height": 135
+          }
+        },
+        {
+          "filename": "full-color-dark-horizontal.png",
+          "path": "zaphrms/full-color-dark-horizontal.png",
+          "crop": {
+            "x": 591,
+            "y": 597,
+            "width": 514,
+            "height": 135
+          },
+          "output": {
+            "width": 514,
+            "height": 135
+          }
+        },
+        {
+          "filename": "favicon-light.png",
+          "path": "zaphrms/favicon-light.png",
+          "crop": {
+            "x": 61,
+            "y": 824,
+            "width": 70,
+            "height": 72
+          },
+          "output": {
+            "width": 70,
+            "height": 72
+          }
+        },
+        {
+          "filename": "favicon-brand.png",
+          "path": "zaphrms/favicon-brand.png",
+          "crop": {
+            "x": 184,
+            "y": 823,
+            "width": 78,
+            "height": 75
+          },
+          "output": {
+            "width": 78,
+            "height": 75
+          }
+        },
+        {
+          "filename": "favicon-dark.png",
+          "path": "zaphrms/favicon-dark.png",
+          "crop": {
+            "x": 313,
+            "y": 822,
+            "width": 81,
+            "height": 76
+          },
+          "output": {
+            "width": 81,
+            "height": 76
+          }
+        },
+        {
+          "filename": "favicon-black.png",
+          "path": "zaphrms/favicon-black.png",
+          "crop": {
+            "x": 457,
+            "y": 822,
+            "width": 82,
+            "height": 76
+          },
+          "output": {
+            "width": 82,
+            "height": 76
+          }
+        },
+        {
+          "filename": "responsive-large-stacked.png",
+          "path": "zaphrms/responsive-large-stacked.png",
+          "crop": {
+            "x": 731,
+            "y": 817,
+            "width": 140,
+            "height": 75
+          },
+          "output": {
+            "width": 140,
+            "height": 75
+          }
+        },
+        {
+          "filename": "responsive-medium-stacked.png",
+          "path": "zaphrms/responsive-medium-stacked.png",
+          "crop": {
+            "x": 1024,
+            "y": 817,
+            "width": 134,
+            "height": 76
+          },
+          "output": {
+            "width": 134,
+            "height": 76
+          }
+        },
+        {
+          "filename": "responsive-small-stacked.png",
+          "path": "zaphrms/responsive-small-stacked.png",
+          "crop": {
+            "x": 1256,
+            "y": 827,
+            "width": 99,
+            "height": 59
+          },
+          "output": {
+            "width": 99,
+            "height": 59
+          }
+        },
+        {
+          "filename": "responsive-extra-small-icon.png",
+          "path": "zaphrms/responsive-extra-small-icon.png",
+          "crop": {
+            "x": 1480,
+            "y": 837,
+            "width": 53,
+            "height": 46
+          },
+          "output": {
+            "width": 53,
+            "height": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "zappayroll",
+      "source": "zappayroll.png",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "sourceSha256": "552a94248176c8b5f380550c7562b57170d54812ba47e01f2323c0b12b72a200",
+      "variants": [
+        {
+          "filename": "light-horizontal.png",
+          "path": "zappayroll/light-horizontal.png",
+          "crop": {
+            "x": 880,
+            "y": 91,
+            "width": 753,
+            "height": 190
+          },
+          "output": {
+            "width": 753,
+            "height": 190
+          }
+        },
+        {
+          "filename": "light-stacked.png",
+          "path": "zappayroll/light-stacked.png",
+          "crop": {
+            "x": 164,
+            "y": 55,
+            "width": 517,
+            "height": 293
+          },
+          "output": {
+            "width": 517,
+            "height": 293
+          }
+        },
+        {
+          "filename": "icon-light.png",
+          "path": "zappayroll/icon-light.png",
+          "crop": {
+            "x": 126,
+            "y": 413,
+            "width": 161,
+            "height": 131
+          },
+          "output": {
+            "width": 161,
+            "height": 131
+          }
+        },
+        {
+          "filename": "app-icon-blue.png",
+          "path": "zappayroll/app-icon-blue.png",
+          "crop": {
+            "x": 537,
+            "y": 417,
+            "width": 127,
+            "height": 120
+          },
+          "output": {
+            "width": 127,
+            "height": 120
+          }
+        },
+        {
+          "filename": "monochrome-black-horizontal.png",
+          "path": "zappayroll/monochrome-black-horizontal.png",
+          "crop": {
+            "x": 834,
+            "y": 433,
+            "width": 358,
+            "height": 97
+          },
+          "output": {
+            "width": 358,
+            "height": 97
+          }
+        },
+        {
+          "filename": "monochrome-white-horizontal.png",
+          "path": "zappayroll/monochrome-white-horizontal.png",
+          "crop": {
+            "x": 1249,
+            "y": 427,
+            "width": 398,
+            "height": 110
+          },
+          "output": {
+            "width": 398,
+            "height": 110
+          }
+        },
+        {
+          "filename": "brand-horizontal.png",
+          "path": "zappayroll/brand-horizontal.png",
+          "crop": {
+            "x": 17,
+            "y": 624,
+            "width": 554,
+            "height": 134
+          },
+          "output": {
+            "width": 554,
+            "height": 134
+          }
+        },
+        {
+          "filename": "full-color-dark-horizontal.png",
+          "path": "zappayroll/full-color-dark-horizontal.png",
+          "crop": {
+            "x": 596,
+            "y": 624,
+            "width": 511,
+            "height": 134
+          },
+          "output": {
+            "width": 511,
+            "height": 134
+          }
+        },
+        {
+          "filename": "favicon-light.png",
+          "path": "zappayroll/favicon-light.png",
+          "crop": {
+            "x": 69,
+            "y": 836,
+            "width": 68,
+            "height": 66
+          },
+          "output": {
+            "width": 68,
+            "height": 66
+          }
+        },
+        {
+          "filename": "favicon-brand.png",
+          "path": "zappayroll/favicon-brand.png",
+          "crop": {
+            "x": 187,
+            "y": 835,
+            "width": 70,
+            "height": 67
+          },
+          "output": {
+            "width": 70,
+            "height": 67
+          }
+        },
+        {
+          "filename": "favicon-dark.png",
+          "path": "zappayroll/favicon-dark.png",
+          "crop": {
+            "x": 320,
+            "y": 834,
+            "width": 74,
+            "height": 69
+          },
+          "output": {
+            "width": 74,
+            "height": 69
+          }
+        },
+        {
+          "filename": "favicon-black.png",
+          "path": "zappayroll/favicon-black.png",
+          "crop": {
+            "x": 456,
+            "y": 832,
+            "width": 80,
+            "height": 72
+          },
+          "output": {
+            "width": 80,
+            "height": 72
+          }
+        },
+        {
+          "filename": "responsive-large-horizontal.png",
+          "path": "zappayroll/responsive-large-horizontal.png",
+          "crop": {
+            "x": 709,
+            "y": 837,
+            "width": 234,
+            "height": 55
+          },
+          "output": {
+            "width": 234,
+            "height": 55
+          }
+        },
+        {
+          "filename": "responsive-medium-horizontal.png",
+          "path": "zappayroll/responsive-medium-horizontal.png",
+          "crop": {
+            "x": 1029,
+            "y": 839,
+            "width": 172,
+            "height": 51
+          },
+          "output": {
+            "width": 172,
+            "height": 51
+          }
+        },
+        {
+          "filename": "responsive-small-horizontal.png",
+          "path": "zappayroll/responsive-small-horizontal.png",
+          "crop": {
+            "x": 1284,
+            "y": 842,
+            "width": 143,
+            "height": 47
+          },
+          "output": {
+            "width": 143,
+            "height": 47
+          }
+        },
+        {
+          "filename": "responsive-extra-small-horizontal.png",
+          "path": "zappayroll/responsive-extra-small-horizontal.png",
+          "crop": {
+            "x": 1505,
+            "y": 849,
+            "width": 107,
+            "height": 41
+          },
+          "output": {
+            "width": 107,
+            "height": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "zaptemplate",
+      "source": "zaptemplate.png",
+      "sourceDimensions": {
+        "width": 1774,
+        "height": 887
+      },
+      "sourceSha256": "49c512ccb76f689c107d5f298b3e8abf83e8cac38a2b2566ca1f5feb31792c12",
+      "variants": [
+        {
+          "filename": "light-horizontal.png",
+          "path": "zaptemplate/light-horizontal.png",
+          "crop": {
+            "x": 80,
+            "y": 87,
+            "width": 680,
+            "height": 174
+          },
+          "output": {
+            "width": 680,
+            "height": 174
+          }
+        },
+        {
+          "filename": "light-stacked.png",
+          "path": "zaptemplate/light-stacked.png",
+          "crop": {
+            "x": 870,
+            "y": 66,
+            "width": 341,
+            "height": 198
+          },
+          "output": {
+            "width": 341,
+            "height": 198
+          }
+        },
+        {
+          "filename": "icon-light.png",
+          "path": "zaptemplate/icon-light.png",
+          "crop": {
+            "x": 1448,
+            "y": 75,
+            "width": 194,
+            "height": 192
+          },
+          "output": {
+            "width": 194,
+            "height": 192
+          }
+        },
+        {
+          "filename": "dark-horizontal.png",
+          "path": "zaptemplate/dark-horizontal.png",
+          "crop": {
+            "x": 30,
+            "y": 332,
+            "width": 731,
+            "height": 179
+          },
+          "output": {
+            "width": 731,
+            "height": 179
+          }
+        },
+        {
+          "filename": "dark-stacked.png",
+          "path": "zaptemplate/dark-stacked.png",
+          "crop": {
+            "x": 779,
+            "y": 332,
+            "width": 484,
+            "height": 198
+          },
+          "output": {
+            "width": 484,
+            "height": 198
+          }
+        },
+        {
+          "filename": "monochrome-black-horizontal.png",
+          "path": "zaptemplate/monochrome-black-horizontal.png",
+          "crop": {
+            "x": 1335,
+            "y": 375,
+            "width": 399,
+            "height": 122
+          },
+          "output": {
+            "width": 399,
+            "height": 122
+          }
+        },
+        {
+          "filename": "monochrome-white-horizontal.png",
+          "path": "zaptemplate/monochrome-white-horizontal.png",
+          "crop": {
+            "x": 29,
+            "y": 551,
+            "width": 724,
+            "height": 116
+          },
+          "output": {
+            "width": 724,
+            "height": 116
+          }
+        },
+        {
+          "filename": "app-icon-light.png",
+          "path": "zaptemplate/app-icon-light.png",
+          "crop": {
+            "x": 31,
+            "y": 706,
+            "width": 153,
+            "height": 156
+          },
+          "output": {
+            "width": 153,
+            "height": 156
+          }
+        },
+        {
+          "filename": "app-icon-blue.png",
+          "path": "zaptemplate/app-icon-blue.png",
+          "crop": {
+            "x": 192,
+            "y": 706,
+            "width": 155,
+            "height": 156
+          },
+          "output": {
+            "width": 155,
+            "height": 156
+          }
+        },
+        {
+          "filename": "app-icon-dark.png",
+          "path": "zaptemplate/app-icon-dark.png",
+          "crop": {
+            "x": 354,
+            "y": 706,
+            "width": 155,
+            "height": 156
+          },
+          "output": {
+            "width": 155,
+            "height": 156
+          }
+        },
+        {
+          "filename": "app-icon-black.png",
+          "path": "zaptemplate/app-icon-black.png",
+          "crop": {
+            "x": 517,
+            "y": 706,
+            "width": 156,
+            "height": 156
+          },
+          "output": {
+            "width": 156,
+            "height": 156
+          }
+        },
+        {
+          "filename": "favicon-light.png",
+          "path": "zaptemplate/favicon-light.png",
+          "crop": {
+            "x": 756,
+            "y": 742,
+            "width": 81,
+            "height": 85
+          },
+          "output": {
+            "width": 81,
+            "height": 85
+          }
+        },
+        {
+          "filename": "favicon-blue.png",
+          "path": "zaptemplate/favicon-blue.png",
+          "crop": {
+            "x": 858,
+            "y": 742,
+            "width": 84,
+            "height": 85
+          },
+          "output": {
+            "width": 84,
+            "height": 85
+          }
+        },
+        {
+          "filename": "favicon-dark.png",
+          "path": "zaptemplate/favicon-dark.png",
+          "crop": {
+            "x": 963,
+            "y": 742,
+            "width": 84,
+            "height": 85
+          },
+          "output": {
+            "width": 84,
+            "height": 85
+          }
+        },
+        {
+          "filename": "favicon-black.png",
+          "path": "zaptemplate/favicon-black.png",
+          "crop": {
+            "x": 1069,
+            "y": 742,
+            "width": 83,
+            "height": 85
+          },
+          "output": {
+            "width": 83,
+            "height": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "zapdocuments",
+      "source": "zapdocuments.png",
+      "sourceDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "sourceSha256": "19e3b86f9f7ad22fc7b4837ef89a06efe73a655ccdcf74619c1444f4371096f6",
+      "variants": [
+        {
+          "filename": "light-horizontal.png",
+          "path": "zapdocuments/light-horizontal.png",
+          "crop": {
+            "x": 62,
+            "y": 71,
+            "width": 582,
+            "height": 151
+          },
+          "output": {
+            "width": 582,
+            "height": 151
+          }
+        },
+        {
+          "filename": "light-stacked.png",
+          "path": "zapdocuments/light-stacked.png",
+          "crop": {
+            "x": 728,
+            "y": 52,
+            "width": 325,
+            "height": 171
+          },
+          "output": {
+            "width": 325,
+            "height": 171
+          }
+        },
+        {
+          "filename": "icon-light.png",
+          "path": "zapdocuments/icon-light.png",
+          "crop": {
+            "x": 1248,
+            "y": 59,
+            "width": 165,
+            "height": 169
+          },
+          "output": {
+            "width": 165,
+            "height": 169
+          }
+        },
+        {
+          "filename": "dark-horizontal.png",
+          "path": "zapdocuments/dark-horizontal.png",
+          "crop": {
+            "x": 29,
+            "y": 274,
+            "width": 628,
+            "height": 153
+          },
+          "output": {
+            "width": 628,
+            "height": 153
+          }
+        },
+        {
+          "filename": "dark-stacked.png",
+          "path": "zapdocuments/dark-stacked.png",
+          "crop": {
+            "x": 670,
+            "y": 274,
+            "width": 444,
+            "height": 153
+          },
+          "output": {
+            "width": 444,
+            "height": 153
+          }
+        },
+        {
+          "filename": "icon-dark.png",
+          "path": "zapdocuments/icon-dark.png",
+          "crop": {
+            "x": 1231,
+            "y": 280,
+            "width": 177,
+            "height": 150
+          },
+          "output": {
+            "width": 177,
+            "height": 150
+          }
+        },
+        {
+          "filename": "monochrome-black-horizontal.png",
+          "path": "zapdocuments/monochrome-black-horizontal.png",
+          "crop": {
+            "x": 113,
+            "y": 480,
+            "width": 468,
+            "height": 123
+          },
+          "output": {
+            "width": 468,
+            "height": 123
+          }
+        },
+        {
+          "filename": "monochrome-black-stacked.png",
+          "path": "zapdocuments/monochrome-black-stacked.png",
+          "crop": {
+            "x": 750,
+            "y": 469,
+            "width": 277,
+            "height": 127
+          },
+          "output": {
+            "width": 277,
+            "height": 127
+          }
+        },
+        {
+          "filename": "monochrome-white-horizontal.png",
+          "path": "zapdocuments/monochrome-white-horizontal.png",
+          "crop": {
+            "x": 1128,
+            "y": 466,
+            "width": 382,
+            "height": 144
+          },
+          "output": {
+            "width": 382,
+            "height": 144
+          }
+        },
+        {
+          "filename": "app-icon-light.png",
+          "path": "zapdocuments/app-icon-light.png",
+          "crop": {
+            "x": 24,
+            "y": 659,
+            "width": 143,
+            "height": 149
+          },
+          "output": {
+            "width": 143,
+            "height": 149
+          }
+        },
+        {
+          "filename": "app-icon-blue.png",
+          "path": "zapdocuments/app-icon-blue.png",
+          "crop": {
+            "x": 174,
+            "y": 659,
+            "width": 143,
+            "height": 149
+          },
+          "output": {
+            "width": 143,
+            "height": 149
+          }
+        },
+        {
+          "filename": "app-icon-dark.png",
+          "path": "zapdocuments/app-icon-dark.png",
+          "crop": {
+            "x": 321,
+            "y": 659,
+            "width": 143,
+            "height": 149
+          },
+          "output": {
+            "width": 143,
+            "height": 149
+          }
+        },
+        {
+          "filename": "app-icon-black.png",
+          "path": "zapdocuments/app-icon-black.png",
+          "crop": {
+            "x": 468,
+            "y": 659,
+            "width": 145,
+            "height": 149
+          },
+          "output": {
+            "width": 145,
+            "height": 149
+          }
+        },
+        {
+          "filename": "favicon-light.png",
+          "path": "zapdocuments/favicon-light.png",
+          "crop": {
+            "x": 647,
+            "y": 691,
+            "width": 73,
+            "height": 74
+          },
+          "output": {
+            "width": 73,
+            "height": 74
+          }
+        },
+        {
+          "filename": "favicon-blue.png",
+          "path": "zapdocuments/favicon-blue.png",
+          "crop": {
+            "x": 740,
+            "y": 691,
+            "width": 73,
+            "height": 74
+          },
+          "output": {
+            "width": 73,
+            "height": 74
+          }
+        },
+        {
+          "filename": "favicon-dark.png",
+          "path": "zapdocuments/favicon-dark.png",
+          "crop": {
+            "x": 836,
+            "y": 691,
+            "width": 73,
+            "height": 74
+          },
+          "output": {
+            "width": 73,
+            "height": 74
+          }
+        },
+        {
+          "filename": "favicon-black.png",
+          "path": "zapdocuments/favicon-black.png",
+          "crop": {
+            "x": 927,
+            "y": 691,
+            "width": 74,
+            "height": 74
+          },
+          "output": {
+            "width": 74,
+            "height": 74
+          }
+        },
+        {
+          "filename": "usage-brand-background.png",
+          "path": "zapdocuments/usage-brand-background.png",
+          "crop": {
+            "x": 866,
+            "y": 859,
+            "width": 313,
+            "height": 135
+          },
+          "output": {
+            "width": 313,
+            "height": 135
+          }
+        },
+        {
+          "filename": "usage-dark-background.png",
+          "path": "zapdocuments/usage-dark-background.png",
+          "crop": {
+            "x": 1189,
+            "y": 859,
+            "width": 323,
+            "height": 135
+          },
+          "output": {
+            "width": 323,
+            "height": 135
+          }
+        },
+        {
+          "filename": "minimum-size-horizontal.png",
+          "path": "zapdocuments/minimum-size-horizontal.png",
+          "crop": {
+            "x": 56,
+            "y": 866,
+            "width": 198,
+            "height": 66
+          },
+          "output": {
+            "width": 198,
+            "height": 66
+          }
+        },
+        {
+          "filename": "minimum-size-icon.png",
+          "path": "zapdocuments/minimum-size-icon.png",
+          "crop": {
+            "x": 301,
+            "y": 858,
+            "width": 78,
+            "height": 69
+          },
+          "output": {
+            "width": 78,
+            "height": 69
+          }
+        }
+      ]
+    }
+  ]
+}
